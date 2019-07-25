@@ -15,6 +15,8 @@ import rospy
 from carla_msgs.msg import CarlaMapInfo
 from carla_ros_bridge.pseudo_actor import PseudoActor
 
+#yl add for OGM 20190725
+
 
 class Map(PseudoActor):
 
